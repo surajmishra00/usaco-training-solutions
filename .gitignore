@@ -7,3 +7,5 @@ wormhole/
 
 # Ignore output files
 *.out
+
+*.zip
