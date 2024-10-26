@@ -1,0 +1,9 @@
+wormhole/
+# Ignore executable files
+*.exe
+
+# Ignore input files
+*.in
+
+# Ignore output files
+*.out
